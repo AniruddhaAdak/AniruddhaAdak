@@ -1,5 +1,5 @@
-# Hello there 👋
-I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(or useless)* projects.
+# Hello 👋
+I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(quite usefull )* projects.
 
 ## I'm good with
 [![Good Skills](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,astro,vite,postman,py,js,css,bootstrap,cpp,figma,github,nodejs,matlab)](https://github.com/AniruddhaAdak)
