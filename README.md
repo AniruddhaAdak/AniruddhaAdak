@@ -24,6 +24,12 @@ A one-stop web platform featuring ten innovative applications designed to make y
 
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruddhaadak&show_icons=true&theme=radical)
 
+## GitHub Foundation Certificate 🏆
+
+<a href="https://www.credly.com/badges/89c05519-b342-407d-ba11-ecc5c6d7cba3">
+  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="150" height="150">
+</a>
+
 ## 😂 A Developer Joke for You
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
