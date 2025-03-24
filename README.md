@@ -17,8 +17,8 @@ I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(qui
 ## 🌟 Highlighted Projects
 
 ### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
-### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
-### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
+### [VocalScribe](https://fueler.io/aniruddha.adak/vocalscribe)
+### [EchoCraft](https://fueler.io/aniruddha.adak/echocraft)
 
 
 ## 📈 GitHub Stats
