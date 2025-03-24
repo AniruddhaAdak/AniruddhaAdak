@@ -14,11 +14,12 @@ I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(qui
 [![IDE](https://skillicons.dev/icons?i=vscode,replit)](https://github.com/AniruddhaAdak)
 
 
-## 🌟 Highlighted Project
+## 🌟 Highlighted Projects
 
 ### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
+### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
+### [SkillSphere](https://fueler.io/aniruddha.adak/skillsphere)
 
-A one-stop web platform featuring ten innovative applications designed to make your daily life easier. From productivity boosters to entertainment hubs, SkillSphere has something for everyone. Check it out and let me know which app pairs best with your coffee!
 
 ## 📈 GitHub Stats
 
