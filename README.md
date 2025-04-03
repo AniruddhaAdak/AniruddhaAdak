@@ -1,5 +1,13 @@
 # Hello 👋
-I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(quite usefull )* projects.
+> I'm **Aniruddha**, a fullstack dev who loves spending time coding new cool *(quite useful)* projects.
+
+✅ I also specialize in machine learning, deep learning, and end-to-end web development using tools like Python, TensorFlow, React, and Node.js.
+
+💡 With a focus on innovation and collaboration, I love turning ideas into impactful and future-proof technology. 
+
+♾️ I constantly evolve over time as I gain experience, and I love how technology changes.
+
+
 
 ## I'm good with
 [![Good Skills](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,astro,vite,postman,py,js,css,bootstrap,cpp,figma,github,nodejs,matlab)](https://github.com/AniruddhaAdak)
